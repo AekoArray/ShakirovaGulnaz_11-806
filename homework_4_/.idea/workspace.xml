@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="Новая папка:war exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e9e40-00c3-4858-9117-8ebe4e0a3219" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/__war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/__war_exploded/WEB-INF/classes/HTML.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/__war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/__war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/__war_exploded/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/__war_exploded/ok.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Новая папка/HTML.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HTML.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MeServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ok.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Новая папка.iml" beforeDir="false" />
+    <list default="true" id="e52bc639-e126-49b1-989b-110322d6c73c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/artifacts/__war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/libraries/servlet_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/out/artifacts/__war_exploded/WEB-INF/classes/HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/out/artifacts/__war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/out/artifacts/__war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/out/artifacts/__war_exploded/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/out/artifacts/__war_exploded/ok.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/out/production/Новая папка/HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/src/HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/src/MeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/src/MyServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/web/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/web/ok.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/Новая папка.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tomcat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tomcat/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,98 +35,112 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-69898145">
+    <session id="820230252">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="java" value="5" />
-          <entry key="jsp" value="3" />
-          <entry key="xhtml" value="2" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="1" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="5" />
-          <entry key="JSP" value="3" />
-          <entry key="XHTML" value="2" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="1" />
+          <entry key="JSP" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="13" />
-          <entry key="java" value="563" />
-          <entry key="jsp" value="9" />
-          <entry key="xml" value="40" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="13" />
-          <entry key="JAVA" value="563" />
-          <entry key="JSP" value="9" />
-          <entry key="XML" value="40" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1417584088">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="15" />
-          <entry key="jsp" value="58" />
+          <entry key="html" value="44" />
+          <entry key="java" value="14" />
+          <entry key="js" value="5" />
+          <entry key="jsp" value="14" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15" />
-          <entry key="JSP" value="58" />
+          <entry key="HTML" value="44" />
+          <entry key="JAVA" value="14" />
+          <entry key="JSP" value="14" />
+          <entry key="JavaScript" value="5" />
           <entry key="XML" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="iml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="IDEA_MODULE" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Html.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
-        <option value="jsf" />
-        <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -139,16 +150,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/HTML.html" />
-        <option value="$PROJECT_DIR$/src/MyServlet.java" />
-        <option value="$PROJECT_DIR$/web/loginpassword.xhtml" />
-        <option value="$PROJECT_DIR$/web/login.xhtml" />
+        <option value="$PROJECT_DIR$/src/Ajax.js" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/login.jsp" />
-        <option value="$PROJECT_DIR$/web/ok.jsp" />
+        <option value="$PROJECT_DIR$/src/MyServlet.java" />
+        <option value="$PROJECT_DIR$/src/Html.html" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/src/MeServlet.java" />
       </list>
     </option>
   </component>
@@ -158,35 +164,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="547" />
-    <option name="y" value="106" />
-    <option name="width" value="1034" />
-    <option name="height" value="887" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Java EE</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>ServletWithoutMappingInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="607" />
+    <option name="y" value="15" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,53 +176,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework_2" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_4_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework_4_" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework_2" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_4_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework_4_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework_2" type="462c0819:PsiDirectoryNode" />
+              <item name="homework_4_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework_4_" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="servlet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="servlet-api" type="70bed36:NamedLibraryElementNode" />
+              <item name="homework_4_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework_4_" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570001745222" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570657118240" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework_2,3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,17 +237,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="UPDATING_POLICY" value="restart-server" />
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
-        <artifact name="Новая папка:war exploded">
+        <artifact name="homework_4_:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_servlet" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_24_homework_4_" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -273,7 +254,7 @@
       <predefined_log_file id="Tomcat Host Manager" enabled="false" />
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="62834" />
+        <option name="DEBUG_PORT" value="59419" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -321,8 +302,9 @@
         </SHUTDOWN>
       </ConfigurationWrapper>
       <method v="2">
+        <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Новая папка:war exploded" />
+          <artifact name="homework_4_:war exploded" />
         </option>
       </method>
     </configuration>
@@ -332,28 +314,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b79e9e40-00c3-4858-9117-8ebe4e0a3219" name="Default Changelist" comment="" />
-      <created>1569396825315</created>
+      <changelist id="e52bc639-e126-49b1-989b-110322d6c73c" name="Default Changelist" comment="" />
+      <created>1570645868195</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569396825315</updated>
-      <workItem from="1569396829892" duration="2063000" />
-      <workItem from="1569399424309" duration="1457000" />
-      <workItem from="1569431516738" duration="242000" />
-      <workItem from="1569480529131" duration="3731000" />
-      <workItem from="1569951619874" duration="9814000" />
-      <workItem from="1569968862268" duration="27000" />
-      <workItem from="1570000387112" duration="1441000" />
+      <updated>1570645868195</updated>
+      <workItem from="1570645871793" duration="259000" />
+      <workItem from="1570646234511" duration="4824000" />
+      <workItem from="1570691664746" duration="2485000" />
+      <workItem from="1571595549579" duration="101000" />
+      <workItem from="1574067977322" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18775000" />
+    <option name="totallyTimeSpent" value="7695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="607" y="15" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31400436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -361,20 +341,20 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.40371847" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -393,64 +373,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HTML.html">
+    <entry file="file://$PROJECT_DIR$/src/Html.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/loginpassword.xhtml" />
-    <entry file="file://$PROJECT_DIR$/web/login.xhtml" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Новая папка.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+    <entry file="file://$PROJECT_DIR$/src/Ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ok.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MeServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/MyServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="397">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -463,7 +417,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Новая папка:war exploded</last-edited>
+          <last-edited>homework_4_:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -511,7 +465,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Новая папка</last-edited>
+          <last-edited>homework_4_</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -524,7 +478,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>servlet-api</last-edited>
+          <last-edited>org.freemarker:freemarker:2.3.28</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
